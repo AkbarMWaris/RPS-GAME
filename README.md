@@ -3,7 +3,7 @@ A responsive, animated Rock–Paper–Scissors game with score tracking, an acce
 
 ![Showcase](Screenshot-2025-11-03-112
 
-<p align="center"> <a href="https://akbarmwaris.github.io/RPS-GAME/">🔴 Live Demo</a>    <a href="https://github.com/akbarmwaris/RPS-GAME">📦 Repository</a> </p>
+<p align="center"> <a href="https://akbarmwaris.github.io/RPS-GAME/">🔴 Live Demo</a> </p>
 Tech Used
 <p> <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" height="40" alt="HTML, CSS, JS" /> </p>
 HTML5 for structure and accessible markup.​
