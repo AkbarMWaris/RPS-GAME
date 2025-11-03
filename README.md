@@ -1,9 +1,11 @@
 <h1 align="center">Rock Paper Scissors 🎮✂️🪨📄</h1>
 A responsive, animated Rock–Paper–Scissors game with score tracking, an accessible rules modal, and a polished desktop triangle layout built using semantic HTML, modern CSS, and vanilla JavaScript.​
 
-![Showcase](Screenshot-2025-11-03-112
-
 <p align="center"> <a href="https://akbarmwaris.github.io/RPS-GAME/">🔴 Live Demo</a> </p>
+<h1 align="center">Showcase</h1>
+
+![Showcase](img/display.png)
+
 Tech Used
 <p> <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" height="40" alt="HTML, CSS, JS" /> </p>
 HTML5 for structure and accessible markup.​
